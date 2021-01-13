@@ -1,0 +1,11 @@
+# Ignore file types
+*.ipynb
+*.txt
+*.csv
+*.xlsx
+*.log
+*.json*
+*.spec
+
+# Ignore any folders
+*/*
