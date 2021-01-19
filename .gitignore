@@ -6,6 +6,7 @@
 *.log
 *.json*
 *.spec
+test.py
 
 # Ignore any folders
 */*
